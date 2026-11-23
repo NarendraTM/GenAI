@@ -1,0 +1,1 @@
+# Sample documents\nPlace your own legally usable, text-based academic PDFs here for testing. No sample PDF is included in this repository.\n
