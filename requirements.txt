@@ -1,1 +1,6 @@
-streamlit>=1.35\nPyMuPDF>=1.24\nsentence-transformers>=3.0\nnumpy>=1.26\nrequests>=2.31\n
+
+streamlit>=1.35
+PyMuPDF>=1.24
+sentence-transformers>=3.0
+numpy>=1.26
+requests>=2.31
